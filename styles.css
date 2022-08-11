@@ -1,1 +1,65 @@
 /* Write your CSS here! */
+
+header {
+    display: block;
+  }
+
+  #mainHeading {
+    color: red;
+  }
+
+  p.author {
+    display: block;
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  p.motto {
+    display: block;
+    color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  p.funParagraph {
+    display: block;
+    color: green;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  li {
+    display: list-item;
+  }
+
+  h2 {
+    display: block;
+    color: green;
+  }
+
+  body {
+    display: block;
+    margin: 8px;
+  }
+
+  p {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    margin-left: 60px;
+  }
+  
+  div {
+    padding: 10px;
+  }
+
+  img {
+  display: inline-block;
+  }
+
